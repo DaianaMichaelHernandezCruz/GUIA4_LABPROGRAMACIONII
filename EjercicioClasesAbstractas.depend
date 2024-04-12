@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1712411502 source:e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712412628 e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\iapariencia.h
+
+1712411546 source:e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\oslinux.cpp
+	"OSLinux.h"
+
+1712411112 e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\oslinux.h
+
+1712411584 source:e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\ososx.cpp
+	"OSOSx.h"
+
+1712411144 e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\ososx.h
+
+1712412926 source:e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\oswindows.cpp
+	"OSWindows.h"
+
+1712412628 e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712413748 source:e:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\main.cpp
+	<iostream>
+	"OSWindows.h"
+
+1712711634 source:d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\main.cpp
+	<iostream>
+	<conio.h>
+	"OSWindows.h"
+	"OSLinux.h"
+	"OSOSx.h"
+
+1712412628 d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712699274 d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\iapariencia.h
+
+1712701364 source:d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712701090 source:d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\oslinux.cpp
+	"OSLinux.h"
+
+1712701028 d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\oslinux.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iAparienciaL.h"
+
+1712703684 source:d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\ososx.cpp
+	"OSOSx.h"
+
+1712703346 d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\ososx.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iAparienciaO.h"
+
+1712412926 source:d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\oswindows.cpp
+	"OSWindows.h"
+
+1712702260 source:d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\iaparienciao.cpp
+	"iAparienciaO.h"
+
+1712704084 d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\iaparienciao.h
+
+1712701364 source:d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\src\iapariencial.cpp
+	"iAparienciaL.h"
+
+1712700288 d:\guia 4 - lab progra ii daiana hernandez\ejercicioclasesabstractas\include\iapariencial.h
+
